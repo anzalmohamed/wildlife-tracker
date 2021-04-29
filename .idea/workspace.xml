@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5199f75c-8482-4347-80ac-65ebcafe1808" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/anzal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/models/Animals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/models/endangeredAnimals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/models/location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/models/ranger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/models/sightings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/public/images/Facebook_Ranger_3b+2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/public/images/images.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/public/images/unnamed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/templates/animal.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/templates/rangerDetails.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/templates/rangersform.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/templates/spotAnimalsform.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/endangeredAnimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/ranger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/sightings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/Facebook_Ranger_3b+2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/images.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/unnamed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/animal.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/rangerDetails.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/rangersform.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/spotAnimalsform.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/DB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/models/Animals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/models/endangeredAnimals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/models/location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/models/ranger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/models/sightings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/Facebook_Ranger_3b+2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/images.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/public/images/unnamed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/animal.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/rangerDetails.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/rangersform.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/spotAnimalsform.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/antlr4-runtime-4.5.1-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/commons-lang3-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/guava-14.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/handlebars-4.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/handlebars-guava-cache-4.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/jetty-client-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/jetty-http-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/jetty-io-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/jetty-security-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/jetty-server-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/jetty-servlet-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/jetty-util-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/jetty-webapp-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/jetty-xml-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/rhino-1.7R4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/slf4j-api-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/slf4j-simple-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/spark-core-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/spark-template-handlebars-2.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/websocket-api-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/websocket-client-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/websocket-common-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/websocket-server-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/websocket-servlet-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/.heroku-deploy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/system.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/DB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/models/Animals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/models/endangeredAnimals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/models/location.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/models/ranger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/models/sightings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/Facebook_Ranger_3b+2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/images.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/unnamed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/animal.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/index.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/layout.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/rangerDetails.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/rangersform.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/spotAnimalsform.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/antlr4-runtime-4.5.1-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/commons-lang3-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/guava-14.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/handlebars-4.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/handlebars-guava-cache-4.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-client-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-http-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-io-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-security-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-server-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-servlet-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-util-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-webapp-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-xml-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/rhino-1.7R4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/slf4j-api-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/slf4j-simple-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/spark-core-2.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/spark-template-handlebars-2.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/websocket-api-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/websocket-client-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/websocket-common-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/websocket-server-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/websocket-servlet-9.4.4.v20170414.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/mvn-dependency-list.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/my-app-1.0-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/my-app-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/build.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mvn-dependency-list.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/my-app-1.0-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/my-app-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="wildlife-tracker" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rnEgj45b5I5m2XxarUJoecDo3X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../virtual-pets/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle run" />
+      <command value="gradle compileJava" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.wildlife-tracker [compileJava]">
+    <configuration name="wildlife-tracker [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="compileJava" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="wildlife-tracker [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.wildlife-tracker [run]" />
+        <item itemvalue="Gradle.wildlife-tracker [compileJava]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5199f75c-8482-4347-80ac-65ebcafe1808" name="Default Changelist" comment="" />
+      <created>1619603566972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619603566972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
