@@ -10,7 +10,7 @@
 
 
 ### Setup Installation Requirement
-To access this project, you will need to access the repository [hero-squad](https://github.com/anzalmohamed/wildlife-tracker) from github then clone it. Then run 'java App' on your terminal.
+To access this project, you will need to access the repository [wildlife-tracker](https://github.com/anzalmohamed/wildlife-tracker) from github then clone it. Then run 'java App' on your terminal.
 
 ### Technologies Used
 * [Java](https://sdkman.io/usage)

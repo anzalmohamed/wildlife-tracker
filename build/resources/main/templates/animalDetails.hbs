@@ -1,0 +1,40 @@
+{{#partial "content"}}
+
+        <h1 class="h1 mb-3 text-center">Animal Details</h1>
+        <table class="table">
+            <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">ID NUMBER</th>
+                <th scope="col">NAME</th>
+                <th scope="col">AGE</th>
+                <th scope="col">HEALTH STATUS</th>
+                <th scope="col">ANIMAL CATEGORY</th>
+
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <th scope="row">1</th>
+                <td>1</td>
+                <td>Tiger</td>
+                <td>4</td>
+                <td>Healthy</td>
+                <td>wild animal</td>
+            </tr>
+            <tr>
+                <th scope="row">2</th>
+                <td><p>{{ id}}</p></td>
+                <td><p>{{name}}</p></td>
+                <td> <p>{{age}}</p></td>
+                <td><p>{{healthStatus}}</p></td>
+                <td>{{animalCategory}}</td>
+            </tr>
+            </tbody>
+        </table>
+
+{{/partial}}
+{{> layout.hbs}}
+
+
+
