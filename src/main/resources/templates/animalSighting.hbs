@@ -3,28 +3,30 @@
     <!DOCTYPE html>
     <html>
     <head>
-        <title>Rangers!</title>
+        <title>Sightings!</title>
         <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
 
 
     </head>
     <body>
-    <h1 class="h1 text-center text-warning">Rangers</h1>
-    <form>
+    <h1 class="h1 text-center text-warning">Animal Sightings</h1>
+    <form action="/sightings">
         <div class="mb-3">
-            <label for="exampleInputEmail1" class="form-label">Name</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+            <label for="loci" class="form-label">Location</label>
+            <input type="text" class="form-control" id="loci" aria-describedby="loci">
+
         </div>
         <div class="mb-3">
-            <label for="exampleInputPassword1" class="form-label"></label>
-            <input type="password" class="form-control" id="exampleInputPassword1">
+            <label for="name" class="form-label">Ranger Name</label>
+            <input type="text" class="form-control" id="name">
         </div>
-        <div class="mb-3 form-check">
-            <input type="checkbox" class="form-check-input" id="exampleCheck1">
-            <label class="form-check-label" for="exampleCheck1">Check me out</label>
+        <div class="mb-3">
+        <label for="date" class="form-label">Sighted On</label>
+        <input type="date" class="form-control" id="date" aria-describedby="date">
         </div>
+
         <button type="submit" class="btn btn-primary">Submit</button>
+
     </form>
 
     </body>

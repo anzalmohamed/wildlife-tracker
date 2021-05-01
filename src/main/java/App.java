@@ -26,10 +26,33 @@ public class App {
             return new ModelAndView(model, "animal.hbs"); // assemble individual pieces and render
         }, new HandlebarsTemplateEngine());
 
-        get("/rangersform", (request, response) -> { //request for route happens at this location
+        get("/animalSighting", (request, response) -> { //request for route happens at this location
             Map<String, Object> model = new HashMap<String, Object>(); // new model is made to store information
-            return new ModelAndView(model, "rangersform.hbs"); // assemble individual pieces and render
+            return new ModelAndView(model, "animalSighting.hbs"); // assemble individual pieces and render
         }, new HandlebarsTemplateEngine()); //
 
+        get("/animalDetails", (request, response) -> {
+            Map<String, Object> model = new HashMap<String, Object>();
+            String id = request.queryParams("id");
+            String name = request.queryParams("name");
+            String age = request.queryParams("age");
+            String healthStatus = request.queryParams("healthStatus");
+            String animalCategory= request.queryParams("animalCategory");
+            model.put("id", id);
+            model.put("name", name);
+            model.put("age", age);
+            model.put("healthStatus", healthStatus);
+            model.put("animalCategory", animalCategory);
+            return new ModelAndView(model, "animalDetails.hbs");
+        }, new HandlebarsTemplateEngine());
 
+
+        get("/sightings", (request, response) -> {
+            Map<String, Object> model = new HashMap<String, Object>();
+            String superpower = request.queryParams("superpower");
+            String heroAge = request.queryParams("heroAge");
+            model.put("superpower", superpower);
+            model.put("heroAge", heroAge);
+            return new ModelAndView(model, "sightings.hbs");
+        }, new HandlebarsTemplateEngine());
     }}
