@@ -1,5 +1,8 @@
-import org.sql2o.Connection;
 package models;
+//import org.sql2o.Connection;
+
+
+
 
 public class Animals {
     private double id;
@@ -8,10 +11,10 @@ public class Animals {
     private String healthStatus;
     private String animalCategory;
 
-    private DB db=new DB();
+//    private DB db=new DB();
 
 
-    public Animal(double id,String name, String age,String animalCategory,String healthStatus){
+    public Animals(double id,String name, String age,String animalCategory,String healthStatus){
 
         this.id=id;
         this.name=name;
@@ -37,19 +40,19 @@ public class Animals {
     }
 
 
-    public boolean keep(){
-
-        db.getCon().createQuery("INSERT INTO animals (id,name,age,healthStatus,animalCategory) VALUES(:id,:name,:age,:healthStatus,:animalCategory)")
-                .addParameter("id",id)
-                .addParameter("name",name)
-                .addParameter("age",age)
-                .addParameter("healthStatus",healthStatus)
-                .addParameter("animalCategory",animalCategory)
-
-                .executeUpdate();
-        return  true;
-    }
-
-}
+//    public boolean keep(){
+//
+//        db.getCon().createQuery("INSERT INTO animals (id,name,age,healthStatus,animalCategory) VALUES(:id,:name,:age,:healthStatus,:animalCategory)")
+//                .addParameter("id",id)
+//                .addParameter("name",name)
+//                .addParameter("age",age)
+//                .addParameter("healthStatus",healthStatus)
+//                .addParameter("animalCategory",animalCategory)
+//
+//                .executeUpdate();
+//        return  true;
+//    }
 
 }
+
+

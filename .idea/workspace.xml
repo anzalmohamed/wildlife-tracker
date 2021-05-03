@@ -5,91 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5199f75c-8482-4347-80ac-65ebcafe1808" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/Animals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/endangeredAnimals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/ranger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/sightings.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/models/sightings.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/antlr4-runtime-4.5.1-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/commons-lang3-3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/guava-14.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/handlebars-4.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/handlebars-guava-cache-4.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/jetty-client-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/jetty-http-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/jetty-io-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/jetty-security-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/jetty-server-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/jetty-servlet-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/jetty-util-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/jetty-webapp-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/jetty-xml-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/rhino-1.7R4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/slf4j-api-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/slf4j-simple-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/spark-core-2.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/spark-template-handlebars-2.5.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/websocket-api-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/websocket-client-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/websocket-common-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/websocket-server-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dependency/websocket-servlet-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/.heroku-deploy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/system.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/models/Animals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/models/endangeredAnimals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/models/location.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/models/ranger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/models/sightings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/public/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/Facebook_Ranger_3b+2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/images.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/lion.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/photo-1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/photo-2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/public/images/unnamed.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/public/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/animal.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/animalDetails.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/animalSighting.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/index.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/layout.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/sightings.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/antlr4-runtime-4.5.1-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/commons-lang3-3.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/guava-14.0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/handlebars-4.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/handlebars-guava-cache-4.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-client-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-http-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-io-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-security-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-server-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-servlet-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-util-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-webapp-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/jetty-xml-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/rhino-1.7R4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/slf4j-api-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/slf4j-simple-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/spark-core-2.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/spark-template-handlebars-2.5.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/websocket-api-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/websocket-client-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/websocket-common-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/websocket-server-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/dependency/websocket-servlet-9.4.4.v20170414.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/mvn-dependency-list.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/my-app-1.0-jar-with-dependencies.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/my-app-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/build.tgz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/mvn-dependency-list.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/my-app-1.0-jar-with-dependencies.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/my-app-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/sightings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/sightings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,9 +58,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1rnEgj45b5I5m2XxarUJoecDo3X" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -231,7 +160,8 @@
       <workItem from="1619896032558" duration="749000" />
       <workItem from="1619941067957" duration="1747000" />
       <workItem from="1620013279567" duration="372000" />
-      <workItem from="1620016477162" duration="3403000" />
+      <workItem from="1620016477162" duration="4334000" />
+      <workItem from="1620021132548" duration="670000" />
     </task>
     <servers />
   </component>

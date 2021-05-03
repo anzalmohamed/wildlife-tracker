@@ -42,7 +42,7 @@ public class App {
             return new ModelAndView(model, "animalDetails.hbs"); // assemble individual pieces and render
         }, new HandlebarsTemplateEngine());
 
-        get("/animalSightings", (request, response) -> {
+        get("/animalSighting", (request, response) -> {
             Map<String, Object> model = new HashMap<String, Object>();
             String name = request.queryParams("name");
             String location = request.queryParams("location");
@@ -50,11 +50,11 @@ public class App {
             model.put("name", name);
             model.put("location", location);
             model.put("date", date);
-            return new ModelAndView(model, "animalSightings.hbs");
+            return new ModelAndView(model, "animalSighting.hbs");
         }, new HandlebarsTemplateEngine());
 
-                get("/sighting", (request, response) -> { //request for route happens at this location
+                get("/sightings", (request, response) -> { //request for route happens at this location
             Map<String, Object> model = new HashMap<String, Object>(); // new model is made to store information
-            return new ModelAndView(model, "sighting.hbs"); // assemble individual pieces and render
+            return new ModelAndView(model, "sightings.hbs"); // assemble individual pieces and render
         }, new HandlebarsTemplateEngine()); //
     }}
