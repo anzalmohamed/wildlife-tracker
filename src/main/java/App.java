@@ -22,7 +22,7 @@ public class App {
             return new ModelAndView(model, "index.hbs"); // assemble individual pieces and render
         }, new HandlebarsTemplateEngine());
 
-        get("/animal", (request, response) -> {
+        get("/animalDetails", (request, response) -> {
             Map<String, Object> model = new HashMap<String, Object>();
             String id = request.queryParams("id");
             String name = request.queryParams("name");
@@ -34,27 +34,29 @@ public class App {
             model.put("age", age);
             model.put("healthStatus", healthStatus);
             model.put("animalCategory", animalCategory);
-            return new ModelAndView(model, "animal.hbs");
+            return new ModelAndView(model, "animalDetails.hbs");
         }, new HandlebarsTemplateEngine());
 
-                get("/animalDetails", (request, response) -> { //request for route happens at this location
+                get("/animal", (request, response) -> { //request for route happens at this location
             Map<String, Object> model = new HashMap<String, Object>(); // new model is made to store information
-            return new ModelAndView(model, "animalDetails.hbs"); // assemble individual pieces and render
+            return new ModelAndView(model, "animal.hbs"); // assemble individual pieces and render
         }, new HandlebarsTemplateEngine());
 
-        get("/animalSighting", (request, response) -> {
+        get("/animalSighting", (request, response) -> { //request for route happens at this location
+            Map<String, Object> model = new HashMap<String, Object>(); // new model is made to store information
+            return new ModelAndView(model, "animalSighting.hbs"); // assemble individual pieces and render
+        }, new HandlebarsTemplateEngine()); //
+
+        get("/sightings", (request, response) -> {
             Map<String, Object> model = new HashMap<String, Object>();
             String name = request.queryParams("name");
-            String location = request.queryParams("location");
+            String loci = request.queryParams("loci");
             String date = request.queryParams("date");
             model.put("name", name);
-            model.put("location", location);
+            model.put("loci", loci);
             model.put("date", date);
-            return new ModelAndView(model, "animalSighting.hbs");
+            return new ModelAndView(model, "sightings.hbs");
         }, new HandlebarsTemplateEngine());
 
-                get("/sightings", (request, response) -> { //request for route happens at this location
-            Map<String, Object> model = new HashMap<String, Object>(); // new model is made to store information
-            return new ModelAndView(model, "sightings.hbs"); // assemble individual pieces and render
-        }, new HandlebarsTemplateEngine()); //
+
     }}

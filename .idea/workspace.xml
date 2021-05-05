@@ -5,23 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5199f75c-8482-4347-80ac-65ebcafe1808" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/bg1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/bg3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/Animals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/endangeredAnimals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/location.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/ranger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/models/sightings.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/models/sightings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Animals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/sightings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/sightings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/models/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/models/Animals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/models/endangeredAnimals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/models/location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/models/ranger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/models/sightings.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/models/sightings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/templates/animal.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/templates/animal.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/templates/index.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/templates/rangerDetails.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/templates/rangersform.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main/templates/spotAnimalsform.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/animal.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/animal.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/animalDetails.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/animalDetails.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/animalSighting.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/animalSighting.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/sightings.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/sightings.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/animal.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/animal.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/animalDetails.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/animalDetails.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/animalSighting.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/animalSighting.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/layout.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/sightings.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/sightings.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/sightings.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/sightings.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +77,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -75,7 +103,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../news-portal" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kanairo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -84,6 +114,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="models" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -94,6 +132,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Gradle.wildlife-tracker [run]">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="wildlife-tracker [compileJava]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -161,7 +210,12 @@
       <workItem from="1619941067957" duration="1747000" />
       <workItem from="1620013279567" duration="372000" />
       <workItem from="1620016477162" duration="4334000" />
-      <workItem from="1620021132548" duration="670000" />
+      <workItem from="1620021132548" duration="2602000" />
+      <workItem from="1620027012769" duration="602000" />
+      <workItem from="1620028706525" duration="601000" />
+      <workItem from="1620107576908" duration="79000" />
+      <workItem from="1620221577997" duration="271000" />
+      <workItem from="1620249252166" duration="2704000" />
     </task>
     <servers />
   </component>
