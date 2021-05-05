@@ -1,0 +1,36 @@
+
+{{#partial "content"}}
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Sightings!</title>
+        <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+
+
+    </head>
+    <body>
+    <h1 class="h1 text-center text-warning">Animal Sightings</h1>
+    <form action="/sightings">
+        <div class="mb-3">
+            <label for="loci" class="form-label">Location</label>
+            <input type="text" class="form-control" id="loci" aria-describedby="loci">
+
+        </div>
+        <div class="mb-3">
+            <label for="name" class="form-label">Ranger Name</label>
+            <input type="text" class="form-control" id="name">
+        </div>
+        <div class="mb-3">
+        <label for="date" class="form-label">Sighted On</label>
+        <input type="date" class="form-control" id="date" aria-describedby="date">
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+
+    </form>
+
+    </body>
+
+    </html>
+{{/partial}}
+{{> layout.hbs}}
