@@ -1,39 +1,34 @@
 
 {{#partial "content"}}
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <title>Animals!</title>
-        <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
 
 
-    </head>
-    <body>
+    <body style="background-image: url('/images/bg1.jpeg');background-repeat: no-repeat;
+    background-size: cover;">
 <h1 class="h1 text-center text-success">Animals</h1>
 <form action="/animalDetails">
     <div class="mb-3">
         <label for="id" class="form-label">ID number</label>
-        <input type="id" class="form-control" id="id" aria-describedby="emailHelp">
+        <input name="id" type="id" class="form-control" id="id" >
 
     </div>
     <div class="mb-3">
         <label for="name" class="form-label">Name</label>
-        <input type="text" class="form-control" id="name">
+        <input name="name" type="text" class="form-control" id="name">
     </div>
     <div class="mb-3">
         <label for="age" class="form-label">Age</label>
-        <input type="number" class="form-control" id="age">
+        <input  name="age" type="number" class="form-control" id="age">
     </div>
     <div class="mb-3">
         <label for="healthStatus" class="form-label">Health status</label>
-        <select type="text" class="form-control" id="healthStatus">
+        <select name="healthStatus" type="text" class="form-control" id="healthStatus">
             <option>Healthy</option>
             <option>sick</option>
         </select>
     </div>
     <div class="mb-3">
         <label for="animalCategory" class="form-label">Animal Category</label>
-        <select type="text" class="form-control" id="animalCategory">
+        <select name="animalCategory" type="text" class="form-control" id="animalCategory">
             <option>wild Animal</option>
             <option>domestic/tame </option>
         </select>
