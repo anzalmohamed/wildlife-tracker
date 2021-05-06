@@ -1,12 +1,14 @@
 
 # Wildlife Tracker
- 
+Wildlife-tracker aim to assist rangers track animals and rescue endangered ones
 ## Founder
 
 [ANZAL MOHAMED](https://github.com/anzalmohamed)
 
 
-### Description and Usage
+### Screenshot
+ <img height="300px" src="/src/main/resources/public/images/Screenshot from 2021-05-06 18-12-50.png" width="600px">
+
 
 
 ### Setup Installation Requirement
