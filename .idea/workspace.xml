@@ -5,43 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5199f75c-8482-4347-80ac-65ebcafe1808" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/adopt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/cZx.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/girrafe.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/images/lion.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public/js/jquery-3.5.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/templates/index.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main/templates/layout.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/animal.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/animal.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/animalDetails.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/animalDetails.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/index.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/sightings.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/sightings.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/public/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/animalDetails.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/animalDetails.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/sightings.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/sightings.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/animal.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/animal.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/animalDetails.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/animalDetails.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/animalSighting.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/animalSighting.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/layout.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/sightings.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/sightings.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/animal.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/animal.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/animalDetails.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/animalDetails.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/animalSighting.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/animalSighting.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/layout.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/layout.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/sightings.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/app/target/classes/templates/sightings.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/heroku/build.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/target/heroku/build.tgz" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +174,8 @@
       <workItem from="1620249252166" duration="7277000" />
       <workItem from="1620293016887" duration="1951000" />
       <workItem from="1620299251636" duration="17000" />
-      <workItem from="1620299470971" duration="103000" />
+      <workItem from="1620299470971" duration="242000" />
+      <workItem from="1620302816244" duration="617000" />
     </task>
     <servers />
   </component>
